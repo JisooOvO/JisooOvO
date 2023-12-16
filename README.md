@@ -1,7 +1,6 @@
 # WELCOME
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Iampikachu)](https://solved.ac/lampikachu)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Iampikachu)](https://solved.ac/lampikachu)
 
 # 진행한 프로젝트 목록
 

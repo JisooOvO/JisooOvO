@@ -5,13 +5,9 @@
 
 # 기술 스택
 
-<div align="center">
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JisooOvO&layout=compact&theme=tokyonight)
 
-
-</div>
 
 
 # 진행한 프로젝트 목록

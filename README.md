@@ -1,10 +1,10 @@
 # WELCOME
 
 
-<center>[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lampikachu)](https://solved.ac/lampikachu)</center>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lampikachu)](https://solved.ac/lampikachu)
 
 
-<center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JisooOvO&layout=compact&theme=tokyonight)</center>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JisooOvO&layout=compact&theme=tokyonight)
 
 
 # 진행한 프로젝트 목록

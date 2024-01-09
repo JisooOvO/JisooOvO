@@ -1,4 +1,3 @@
-<div align="center">
 
 # INTRODUCE
 
@@ -6,8 +5,13 @@
 
 # 기술 스택
 
+<div align="center">
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JisooOvO&layout=compact&theme=tokyonight)
 
+
+</div>
 
 
 # 진행한 프로젝트 목록
@@ -21,4 +25,3 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lampikachu)](https://solved.ac/lampikachu)
 
 
-</div>

@@ -12,9 +12,9 @@
 
 # 진행한 프로젝트 목록
 
-[K-Digital 미니 프로젝트 Healthyfit](https://github.com/JisooOvO/kminiproject-dietapp)
-
-[K-Digital AI 분석 프로젝트 YoungMan Project](https://github.com/JisooOvO/DataAnalystProject-Frontend-YoungmanProject)
+- React Frontend + JAVA SpringBoot
+  - [K-Digital 미니 프로젝트 Healthyfit](https://github.com/JisooOvO/kminiproject-dietapp)
+  - [K-Digital AI 분석 프로젝트 YoungMan Project](https://github.com/JisooOvO/DataAnalystProject-Frontend-YoungmanProject)
 
 
 # 알고리즘

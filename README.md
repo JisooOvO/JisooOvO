@@ -6,7 +6,7 @@
 &nbsp;
 # BLOG
 
-[<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=black">](https://karina-winter.tistory.com/)
+[<img src="https://img.shields.io/badge/Tistory-F36250?style=for-the-badge&logo=Tistory&logoColor=black">](https://karina-winter.tistory.com/)
 
 &nbsp;
 # TECH STACK

@@ -59,7 +59,7 @@
 # PROJECT
 > 진행한 프로젝트 목록입니다. 
 
-## React Frontend + JAVA SpringBoot
+## Javascript React + JAVA SpringBoot
   - [K-Digital 미니 프로젝트 Healthyfit](https://github.com/JisooOvO/kminiproject-dietapp)
     - 부산대학교 K-Digital AI 활용 빅데이터분석 풀스택웹서비스 SW 개발자 양성과정 트레이닝 과정을 수강하며 진행한 프로젝트 저장소입니다.
     - 개발 기간 : 2023.11.14 ~ 2023.12.12

@@ -3,12 +3,14 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=300&section=header&text=INTRODUCE&fontSize=90)
 
-&nbsp;
+<br/>
+
 # BLOG
 
 [<img src="https://img.shields.io/badge/Tistory-F36250?style=for-the-badge&logo=Tistory&logoColor=black">](https://karina-winter.tistory.com/)
 
-&nbsp;
+<br/>
+
 # TECH STACK
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black">
@@ -26,8 +28,9 @@
 [Canvas 연습](https://github.com/JisooOvO/Practice-Canvas-Basic)
 
 [socket.io/webRTC, NodeJS 연습](https://github.com/JisooOvO/Clone-Coding-Zoom)
-      
-&nbsp;   
+
+
+<br/>
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 
 [연습](https://github.com/JisooOvO/Practice-React-Basic)
@@ -36,10 +39,12 @@
 
 [K-Digital AI 분석 프로젝트 YoungMan Project](https://github.com/JisooOvO/DataAnalystProject-Frontend-YoungmanProject)
 
-&nbsp;
+<br/>
 <img src="https://img.shields.io/badge/REACTNATIVE-8F45C6?style=for-the-badge&logo=React&logoColor=black">
 
 [날씨 앱 클론코딩](https://github.com/JisooOvO/Clone-Coding-NomadWeather) 
+
+<br/>
 
 # Solved.ac
 
@@ -47,7 +52,8 @@
 
 </div>
 
-&nbsp;
+<br/>
+
 # PROJECT
 > 진행한 프로젝트 목록입니다. 
 

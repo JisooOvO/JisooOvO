@@ -32,6 +32,10 @@
 
 [연습](https://github.com/JisooOvO/Practice-React-Basic)
 
+[K-Digital 미니 프로젝트 Healthyfit](https://github.com/JisooOvO/kminiproject-dietapp)
+
+[K-Digital AI 분석 프로젝트 YoungMan Project](https://github.com/JisooOvO/DataAnalystProject-Frontend-YoungmanProject)
+
 &nbsp;
 <img src="https://img.shields.io/badge/REACTNATIVE-8F45C6?style=for-the-badge&logo=React&logoColor=black">
 

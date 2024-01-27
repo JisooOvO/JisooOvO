@@ -13,9 +13,11 @@
 
 # TECH STACK
 
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black">
 
-[연습](https://github.com/JisooOvO/Practice-JavaScript-Basic)
+[자바스크립트 시작하기](https://github.com/JisooOvO/Practice-JavaScript-Basic)
 
 [Momentum 클론코딩](https://github.com/JisooOvO/Clone-Coding-Momentum)
 
@@ -33,7 +35,7 @@
 <br/>
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 
-[연습](https://github.com/JisooOvO/Practice-React-Basic)
+[리액트 시작하기](https://github.com/JisooOvO/Practice-React-Basic)
 
 [K-Digital 미니 프로젝트 Healthyfit](https://github.com/JisooOvO/kminiproject-dietapp)
 

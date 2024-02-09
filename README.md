@@ -7,7 +7,9 @@
 
 # BLOG
 
-[<img src="https://img.shields.io/badge/Tistory-F36250?style=for-the-badge&logo=Tistory&logoColor=black">](https://karina-winter.tistory.com/)
+[<img src="https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=black">](https://jisooovo.github.io/devlog/#/)
+
+[<img src="https://bimg.shields.io/adge/Tistory-F36250?style=for-the-badge&logo=Tistory&logoColor=black">](https://karina-winter.tistory.com/)
 
 <br/>
 

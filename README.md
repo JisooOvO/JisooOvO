@@ -79,6 +79,13 @@
                  따라서 실물 영수증의 정보를 데이터화 하고 관련 기능을 제공하는 웹서비스 제공이 목적입니다.
     - 사용 스킬 : React, React-router-dom, Recoil, Tailwindcss, Sockjs, Stompjs, Xlsx, Figma, easyOCR 등
 
+## Javascript React + Githubpage
+  - [깃허브 페이지를 이용한 개인 블로그 구축 프로젝트](https://github.com/JisooOvO/devlog)
+    - 포트폴리오 및 개인 블로그 구축을 위한 프로젝트 저장소입니다.
+    - 개발 기간 : 2023.02.08 ~ 진행중
+    - 개발 목적 : 포트폴리오 및 개인 블로그 구축
+    - 사용 스킬 : React, React-router-dom, Recoil, Styled-components, React-markdown 등
+
 &nbsp;
 <div align="center">
 

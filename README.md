@@ -92,6 +92,13 @@
     - 개발 목적 : 포트폴리오 및 개인 블로그 구축
     - 사용 스킬 : React, React-router-dom, Recoil, Styled-components, React-markdown 등
 
+## Inertia/Vue3 + Laravel
+  - [렌트카 예약 시스템 미니 프로젝트](https://github.com/JisooOvO/TechProject-Vue-Laravel-rentalcars)
+    - 라라벨 프레임 워크 및 Tailwind Inertia Vue 이용하여 웹 페이지 구성을 위한 프로젝트 저장소입니다. 
+    - 개발 기간 : 2024.02.20 ~ 2024.02.27
+    - 개발 목적 : 렌트카 예약 시스템 로직 구성
+    - 사용 스킬 : Inertia/Vue3, Laravel, flatpickr, mysql, tailwind 등
+      
 &nbsp;
 <div align="center">
 

@@ -36,6 +36,7 @@
 
 <br/>
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=black">
 
 [리액트 시작하기](https://github.com/JisooOvO/Practice-React-Basic)
 

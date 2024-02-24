@@ -50,8 +50,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Vue.js-#4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black">
-<img src="https://img.shields.io/badge/Laravel-#FF2D20?style=for-the-badge&logo=Laravel&logoColor=black">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=black">
 
 [렌트카 예약 시스템 미니 프로젝트](https://github.com/JisooOvO/TechProject-Vue-Laravel-rentalcars)
 
